@@ -9,3 +9,7 @@ if __name__ == '__main__':
 	input_word = raw_input('>> ')
 	print input_word
 	print 'Hello world!'
+	print 'Hello world!'
+	print 'Hello world!'
+	print 'Hello world!'
+	print 'Hello world!'
