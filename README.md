@@ -17,11 +17,23 @@ sampleなので，使い方などを学習するためのリポジトリです�
 
 ## とりあえずすればいいこと（3手順）
 
+# はじめに
+git init
+
 # 変更を反映？
 git add sample2.py
+git add .
 
 # ローカルのほうにコミット
 git commit -m "コメント"
+多分変更したものに対してコメントがつく
 
-# ローカルのものを共有のところに同期？
+# ローカルのものをremoteに同期？
 git push
+
+ローカルブランチ「master」を、リモートレポジトリ「origin」上の同名のブランチに反映する
+git push origin master
+
+# remote関連
+git remote add <name> <url>
+リモートリポジトリを追加したい
