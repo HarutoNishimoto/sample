@@ -141,4 +141,6 @@ git checkout 33b561d6be4e74fdf6b6dfb7cd04eb17c4c0ddfc -- GitTest.txt
 pullしたら他の人は編集した内容が反映される．
 でも，自分も編集していたら，反映されない．
 
+追記２
+
 
