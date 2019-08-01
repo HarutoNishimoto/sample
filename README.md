@@ -117,6 +117,7 @@ originは共有リポジトリのこと
 
 git remote add <name> <url>  
 リモートリポジトリを追加
+nameにはoriginが入りがち
 
 git remote -v  
 リモートリポジトリの一覧がでる
@@ -140,6 +141,4 @@ git checkout 33b561d6be4e74fdf6b6dfb7cd04eb17c4c0ddfc -- GitTest.txt
 
 pullしたら他の人は編集した内容が反映される．
 でも，自分も編集していたら，反映されない．
-
-追記２
 

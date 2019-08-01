@@ -1,0 +1,9 @@
+gitの疑問，メモ
+
+
+fetchとは
+
+desktopでの環境
+GITDesktopでの環境で複数管理
+
+
