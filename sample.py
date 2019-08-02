@@ -5,6 +5,7 @@
 def showUnko():
 
 	print('unko buriburi')
+	print('unko')
 	pass
 
 
