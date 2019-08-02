@@ -148,10 +148,17 @@ git checkout <commit> -- <file>
 git checkout 33b561d6be4e74fdf6b6dfb7cd04eb17c4c0ddfc -- GitTest.txt  
 こんな感じで過去のversionを指定すると，ローカルのファイルがそれに変更される
 
+git checkout <branch>  
+ブランチの切り替え
 
 
 # 思ったこと
 
 pullしたら他の人は編集した内容が反映される．
 でも，自分も編集していたら，反映されない．
+
+ブランチ切ったらpublishしてリモートに反映させないといけない
+
+
+
 
