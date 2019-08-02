@@ -9,6 +9,10 @@ def showUnko():
 
 
 def showUnti():
+	print('unko buriburi')
+
+	print('unko buriburi')
+	
 	pass
 
 
